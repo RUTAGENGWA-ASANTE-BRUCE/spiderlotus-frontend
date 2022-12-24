@@ -1,0 +1,92 @@
+.ordersMain {
+  width: 1200px;
+}
+.address {
+  margin-left: 140px;
+}
+.products {
+  margin-left: 125px;
+}
+.date {
+  margin-left: 125px;
+}
+.status {
+  margin-left: 153px;
+}
+.customer {
+  margin-left: 220px;
+}
+.productName {
+  width: 700px;
+}
+.detail {
+  width: 500px;
+}
+.loginLeft {
+  width: 60%;
+}
+.loginRight {
+  width: 40%;
+  height: 640px;
+}
+.forgot {
+  margin-left: 515px;
+}
+.signInText {
+  margin-left: 380px;
+}
+.orSignIn {
+  margin-left: 375px;
+}
+.messageLeft {
+  width: 20%;
+}
+.messageRight {
+  width: 80%;
+}
+.chater {
+  margin-left: 500px;
+}
+.chaterEmail {
+  margin-left: 490px;
+}
+.chatBody {
+  height: 480px;
+}
+.anotherSender {
+  margin-left: 50%;
+}
+.paymentLeft {
+  width: 60%;
+}
+.paymentRight {
+  width: 40%;
+}
+.getLoggedIn {
+  margin-top: 8.62%;
+  margin-bottom: 8.62%;
+}
+.glassy {
+  background: rgb(229 231 235 0.01);
+  border-radius: 3px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10.9px);
+  -webkit-backdrop-filter: blur(10.9px);
+  border: 2px solid rgba(68, 23, 23, 0.94);
+  width: 17.7%;
+  height: 75.3%;
+  margin-top: 6%;
+}
+.withoutRoom {
+  width: 80%;
+}
+.senderMargin{
+  margin-left:20px;
+}
+.receiverTimeStamp{
+  margin-left:90%;
+}
+.orderTitle{
+  margin-left:8.3%;
+  
+}

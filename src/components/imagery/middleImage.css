@@ -1,0 +1,20 @@
+.image {
+  transform: translate(-50%, +50%);
+  background-image: "linear-gradient(rgb(214, 37, 217) , rgb(243 244 246))";
+  animation: slider 3s infinite linear;
+}
+@keyframes slider {
+  0% {
+    background-image: "linear-gradient(rgb(33, 95, 209) , rgb(243 244 246))";
+  }
+  35% {
+    background-image: "linear-gradient(rgb(114, 212, 44) , rgb(243 244 246))";
+  }
+  75% {
+    background-image: "linear-gradient(rgb(250, 95, 116) , rgb(243 244 246))";
+  }
+}
+
+.p {
+  background-color: white;
+}

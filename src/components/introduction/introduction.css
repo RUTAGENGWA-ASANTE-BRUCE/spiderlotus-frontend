@@ -1,0 +1,213 @@
+
+.big1{
+    width: 60px;
+    height:50px;
+    background-color: rgb(239,68,68);
+    
+    position: relative;
+}
+
+.big1:before{
+    content: "";
+    position: absolute;
+    top: -10px;   
+        
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 10px solid rgb(239,68,68);
+}
+.big1::after{
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-top: 10px solid rgb(239,68,68);
+}
+
+
+.small1{
+    width: 50px;
+    height:     40px;
+    background-color: rgb(254,202,202);
+    position: relative;
+}
+.small1:before{
+    content: "";
+    position: absolute;
+    top: -10px;   
+
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 10px solid rgb(254,202,202);
+}
+.small1::after{
+    content: "";
+    position: absolute;
+    bottom: -10px;
+   
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 10px solid rgb(254,202,202);
+}
+
+
+
+
+
+.big2{
+    width: 60px;
+    height:50px;
+    background-color: rgb(59,130,246);
+    
+    position: relative;
+}
+.big2:before{
+    content: "";
+    position: absolute;
+    top: -10px;   
+        
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 10px solid rgb(59,130,246);
+}
+.big2::after{
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-top: 10px solid rgb(59,130,246);
+}
+
+
+.small2{
+    width: 50px;
+    height:     40px;
+    background-color: rgb(191,219,254);
+    position: relative;
+}
+.small2:before{
+    content: "";
+    position: absolute;
+    top: -10px;   
+
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 10px solid rgb(191,219,254);
+}
+.small2::after{
+    content: "";
+    position: absolute;
+    bottom: -10px;
+   
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 10px solid rgb(191,219,254);
+}
+
+
+
+.big3{
+    width: 60px;
+    height:50px;
+    background-color: rgb(20,184,166);
+    
+    position: relative;
+}
+.big3:before{
+    content: "";
+    position: absolute;
+    top: -10px;   
+        
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 10px solid rgb(20,184,166);
+}
+.big3::after{
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-top: 10px solid rgb(20,184,166);
+}
+
+
+.small3{
+    width: 50px;
+    height:     40px;
+    background-color: rgb(153,246,228);
+    position: relative;
+}
+.small3:before{
+    content: "";
+    position: absolute;
+    top: -10px;   
+
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 10px solid rgb(153,246,228);
+}
+.small3::after{
+    content: "";
+    position: absolute;
+    bottom: -10px;
+   
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 10px solid rgb(153,246,228);
+}
+
+
+
+.big4{
+    width: 60px;
+    height:50px;
+    background-color: rgb(249,115,22);
+    
+    position: relative;
+}
+.big4:before{
+    content: "";
+    position: absolute;
+    top: -10px;   
+        
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 10px solid rgb(249,115,22);
+}
+.big4::after{
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-top: 10px solid rgb(249,115,22);
+}
+
+
+.small4{
+    width: 50px;
+    height:     40px;
+    background-color: rgb(254,215,170);
+    position: relative;
+}
+.small4:before{
+    content: "";
+    position: absolute;
+    top: -10px;   
+
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 10px solid rgb(254,215,170);
+}
+.small4::after{
+    content: "";
+    position: absolute;
+    bottom: -10px;
+   
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 10px solid rgb(254,215,170);
+}
